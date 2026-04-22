@@ -175,7 +175,3 @@ scheduleService.toggleComplete(id: number): Schedule
 - [Vite](https://vite.dev/) - 下一代前端构建工具
 - [sql.js](https://sql.js.org/) - SQLite 的 WebAssembly 移植
 - [TypeScript](https://www.typescriptlang.org/) - JavaScript 的超集
-
----
-
-Made with ❤️ by Your Name
